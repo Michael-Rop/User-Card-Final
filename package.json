@@ -1,0 +1,14 @@
+{
+  "name": "u-c1",
+  "version": "1.0.0",
+  "description": "My 2nd user card",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.3.2"
+  }
+}

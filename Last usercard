@@ -4,8 +4,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title> Profile Card Design</title>
     <link rel="stylesheet" href="style.css"
+    <link href="./dist/output.css" rel="stylesheet" />
+
 </head>
+
 <body>
+  <h1 class="text-3xl font-bold underline"> Hello World</h1>
+
+
     <div class="container">
   <div class="profile-box">
     <img src="images/menu.png" class="menu-icon"
@@ -17,11 +23,6 @@
   </div>
 
     </div>
-
-
-
-
-
 
 
 
